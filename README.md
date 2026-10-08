@@ -1,4 +1,5 @@
 The Ilefoastro Method is a three-step approach to preserving Yoruba family lineage, developed by Temitope Israel Balogun.
+
 The three steps
     1.	Oral ethnography: collect, structure and record spoken histories, family traditions and praise poetry (Oriki).	
 	2.	Archival forensics: check oral accounts against documents, family notebooks and archives.	
@@ -11,5 +12,4 @@ Learn more
 	•	All books: https://linktr.ee/ilefoastro	
 	•	Author page: https://amazon.com/author/ilefoastro/
 About
-Created and maintained by Temitope Israel Balogun, Ibadan, Nigeria.
-© 2026 Temitope Israel Balogun.
+© 2026 Temitope Israel Balogun. Licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/).
