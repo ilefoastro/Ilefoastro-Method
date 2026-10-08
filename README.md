@@ -7,9 +7,14 @@ The three steps
 Sample data structure
 
 The public sample schema uses three field names: Member_ID, Title_Name and Event_ID. It is archived on Zenodo: https://doi.org/10.5281/zenodo.22850462
+
 Learn more
+	
 	•	Book: Ilefoastro Method: A Modern Manual for Digital Yoruba Genealogy and Lineage Branding (Amazon): https://a.co/d/01PScJ1T	
+	
 	•	All books: https://linktr.ee/ilefoastro	
+	
 	•	Author page: https://amazon.com/author/ilefoastro/
+
 About
 © 2026 Temitope Israel Balogun. Licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/).
